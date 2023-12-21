@@ -31,7 +31,7 @@
                 {
                     "type" : "git",
                     "url" : "https://github.com/xverizex/RetroSpriteEditor",
-										"tag" : "0.2.22"
+										"tag" : "0.2.23"
                 }
             ]
         }
