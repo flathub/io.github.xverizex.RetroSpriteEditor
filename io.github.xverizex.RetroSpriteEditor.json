@@ -1,5 +1,5 @@
 {
-    "app-id" : "io.github.xverizex.RetroSpriteEditor",
+    "id" : "io.github.xverizex.RetroSpriteEditor",
     "runtime" : "org.gnome.Platform",
     "runtime-version" : "45",
     "sdk" : "org.gnome.Sdk",
@@ -31,7 +31,7 @@
                 {
                     "type" : "git",
                     "url" : "https://github.com/xverizex/RetroSpriteEditor",
-										"tag" : "0.2.35"
+                    "tag" : "0.2.35"
                 }
             ]
         }
