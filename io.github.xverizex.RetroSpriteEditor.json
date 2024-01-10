@@ -5,11 +5,10 @@
     "sdk" : "org.gnome.Sdk",
     "command" : "retrospriteeditor",
     "finish-args" : [
-        "--share=network",
-        "--share=ipc",
+        "--socket=wayland",
         "--socket=fallback-x11",
         "--device=dri",
-        "--socket=wayland"
+        "--share=ipc"
     ],
     "cleanup" : [
         "/include",
